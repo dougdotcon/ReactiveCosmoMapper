@@ -6,7 +6,7 @@
 ![Physics](https://img.shields.io/badge/Physics-Entropic%20Gravity-orange.svg)
 ![Scale](https://img.shields.io/badge/Scale-Multi_Scale_Validation-purple.svg)
 
-## 🔭 Project Overview
+## Project Overview
 
 **ReactiveCosmoMapper** is a "Code-First Physics" engine designed to computationally verify the **Entropic Gravity** hypothesis (Erik Verlinde) across all cosmological scales. Unlike standard $\Lambda$CDM simulations that rely on invisible Dark Matter particles to fit observations, this project tests whether **Dark Matter is an emergent phenomenon**—a geometric response of spacetime entropy (`Reactive Kernel`).
 
@@ -14,7 +14,7 @@ We successfully validated the model against 6 distinct observational tensions, p
 
 ---
 
-## 🚀 The Verification Arsenal (Results)
+## The Verification Arsenal (Results)
 
 ### 1. Galactic Scale (10 kpc): The Rotation Curve Test
 **Problem:** Stars at galaxy edges move too fast for the visible mass.
@@ -50,7 +50,7 @@ We successfully validated the model against 6 distinct observational tensions, p
 
 ---
 
-## 🛠️ Installation & Usage
+## Installation & Usage
 
 ### Prerequisites
 ```bash
@@ -84,7 +84,7 @@ python src/run_early_universe.py
 python src/run_void_analysis.py
 ```
 
-## 🧠 Theory: The Reactive Kernel
+## Theory: The Reactive Kernel
 
 The engine replaces the static Newtonian Potential with Verlinde's Interpolation:
 
