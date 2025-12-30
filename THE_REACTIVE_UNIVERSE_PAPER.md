@@ -1,6 +1,7 @@
 # THE REACTIVE UNIVERSE: A Computational Solution to the Dark Sector
 **Authors:** Douglas H. M. Fulber
 **Date:** December 2025
+**DOI:** [10.5281/zenodo.18090702](https://doi.org/10.5281/zenodo.18090702)
 **Repository:** https://github.com/dougdotcon/ReactiveCosmoMapper
 
 ## Abstract

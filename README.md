@@ -5,6 +5,7 @@
 ![Status](https://img.shields.io/badge/Status-Mission_Accomplished-brightgreen.svg)
 ![Physics](https://img.shields.io/badge/Physics-Entropic%20Gravity-orange.svg)
 ![Scale](https://img.shields.io/badge/Scale-Multi_Scale_Validation-purple.svg)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.18090702.svg)](https://doi.org/10.5281/zenodo.18090702)
 
 ## Project Overview
 
