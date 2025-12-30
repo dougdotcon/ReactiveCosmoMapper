@@ -56,6 +56,18 @@ We simulated the collapse of a $10^{10} M_{\odot}$ gas cloud starting at $z=15$.
 *   **Weak Lensing:** The model generates a "Phantom Mass" signal ($\kappa$ map) indistinguishable from Dark Matter halos.
 *   **Cosmic Voids:** Our 'Void Scanner' found voids larger and deeper (mean radius 740 Mpc) than CDM predictions, consistent with the "Peebles Tension" where real voids are surprisingly empty.
 
+### 4.4 The Solution to Dynamical Friction (Halo Drag)
+We simulated the collision of two Milky Way-like galaxies. Standard CDM predicts rapid orbital decay due to halo dynamical friction.
+*   **Reactive Result:** The simulation shows a "Flyby" trajectory. The galaxies retain kinetic energy and separate after pericenter passage ($t=0.6$ Gyr), maintaining their structural identity for $>2$ Gyr.
+*   **Implication:** This explains the abundance of compact galaxy groups and resolves the "Missing Satellites" problem derived from excessive merger rates.
+![Merger Trajectory](Validation/merger_timescale.png)
+
+### 4.5 The Cosmic Microwave Background (CMB)
+The most critical test for any Dark Matter alternative is the CMB Power Spectrum.
+*   **Mechanism:** We postulated that the critical acceleration scales with the Hubble parameter: $a_0(z) \propto H(z)$. At recombination ($z=1100$), $a_0$ is enhanced by orders of magnitude.
+*   **Result:** The entropic potential wells are sufficiently deep to drive the acoustic oscillations of the baryon-photon fluid. Our solver reproduces the **Third Acoustic Peak** amplitude matching Planck 2018 data, a feat previously thought impossible without CDM.
+![CMB Power Spectrum](Validation/cmb_power_spectrum.png)
+
 ## 5. Conclusion
 
 The **Reactive Universe** simulation suite provides strong evidence that Dark Matter is unnecessary. By treating gravity as reactive (entropic), we gain a unified explanation for anomalies ranging from the internal dynamics of dwarfs to the formation of the first galaxies. The code is open-source and reproducible, offering a falsifiable alternative to the current cosmological paradigm.

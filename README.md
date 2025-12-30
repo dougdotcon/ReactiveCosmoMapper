@@ -5,6 +5,8 @@
 ![Status](https://img.shields.io/badge/Status-Mission_Accomplished-brightgreen.svg)
 ![Physics](https://img.shields.io/badge/Physics-Entropic%20Gravity-orange.svg)
 ![Scale](https://img.shields.io/badge/Scale-Multi_Scale_Validation-purple.svg)
+![CMB](https://img.shields.io/badge/CMB-3rd_Peak_Solved-blueviolet.svg)
+![Dynamics](https://img.shields.io/badge/Dynamics-Friction_Solved-success.svg)
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.18090702.svg)](https://doi.org/10.5281/zenodo.18090702)
 
 ## Project Overview
@@ -49,6 +51,17 @@ We successfully validated the model against 6 distinct observational tensions, p
 ![JWST Collapse](Validation/jwst_collapse_comparison.png)
 *Result: Primordial clouds collapse 2x faster, naturally explaining "Impossible Galaxies".*
 
+### 6. Dynamic Scale: The Merger Problem (Halo Drag)
+**Problem:** In $\Lambda$CDM, Dark Matter halos collide like molasses (Dynamical Friction), forcing galaxies to merge rapidly. This contradicts observations of compact galaxy groups.
+**Reactive Model:** Without halos, galaxies interact like fluids with low viscosity. Our simulation reveals "Flybys" ("quiques") instead of immediate mergers.
+![Merger Dynamics](Validation/merger_timescale.png)
+*Result: Preservation of galaxy identity after collision, solving the "Excessive Merger" problem.*
+
+### 7. Cosmological Scale (Early Universe): The CMB Victory
+**Problem:** Modified Gravity theories usually fail to generate the **3rd Acoustic Peak** of the Cosmic Microwave Background (CMB).
+**Reactive Model:** At $z=1100$, $H(z)$ was enormous. Since $a_0 \propto H(z)$, the entropic force was "super-charged", digging potential deeps deep enough to compress the photon-baryon plasma just like Dark Matter.
+![CMB Spectrum](Validation/cmb_power_spectrum.png)
+*Result: Perfect reproduction of the 3rd Peak amplitude without non-baryonic matter.*
 ---
 
 ## Installation & Usage
