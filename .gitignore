@@ -5,7 +5,8 @@ __pycache__/
 doc
 # C extensions
 *.so
-
+create_release_zip.py
+ReactiveCosmoMapper_v1.0.0.zip
 # Distribution / packaging
 .Python
 build/
