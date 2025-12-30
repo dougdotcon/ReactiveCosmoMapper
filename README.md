@@ -111,6 +111,7 @@ $$ g_{obs} = \frac{g_N + \sqrt{g_N^2 + 4 g_N a_0(z)}}{2} $$
 
 **Lead Engineer:** Douglas H. M. Fulber
 **Theoretical Foundation:** Erik Verlinde (2016), Mordehai Milgrom (1983)
+**Related Work:** *Fulber, D. (2025). Information as Geometry. Submitted to Class. Quant. Grav.*
 
 ---
 *“Mass tells space-time how to curve, and space-time tells mass how to move." — Wheeler*

@@ -6,7 +6,7 @@
 
 ## Abstract
 
-We present **ReactiveCosmoMapper**, a comprehensive computational framework that tests the Entropic Gravity hypothesis against the full range of cosmological anomalies currently attributed to Dark Matter. By replacing the particle-based Dark Matter paradigm with an emergent, entropic response of spacetime ($g_{eff}$), we successfully reproduce observational data across six orders of magnitude in scale. Our results demonstrate that a single physical principle—Variable Surface Gravity Entanglement—simultaneously resolves the Rotation Curve problem, the Plane of Satellites tension, the Early Galaxy Formation (JWST) crisis, and the Peebles Void Tension, without invoking non-baryonic matter.
+We present **ReactiveCosmoMapper**, a high-fidelity computational framework that validates the Entropic Gravity hypothesis as a complete alternative to $\Lambda$CDM. By implementing gravity as an emergent entropic response ($g_{eff}$), we demonstrate a **Dynamical Friction Solution** that resolves the "Halo Drag" problem, explaining the survival of compact galaxy groups where standard models predict rapid mergers. Crucially, we reproduce the **CMB 3rd Acoustic Peak** amplitude by modeling the entropic force scaling with the Hubble parameter ($a_0 \propto H(z)$) at $z=1100$. Our results successfully span six orders of magnitude—from the spontaneous formation of Satellite Planes (100 kpc) to the cleaning of Cosmic Voids (100 Mpc)—establishing Entropic Gravity as a unified physical principle capable of replacing the Dark Sector without free parameters.
 
 ## 1. Introduction: The Crisis of $\Lambda$CDM
 
@@ -70,4 +70,10 @@ The most critical test for any Dark Matter alternative is the CMB Power Spectrum
 
 ## 5. Conclusion
 
-The **Reactive Universe** simulation suite provides strong evidence that Dark Matter is unnecessary. By treating gravity as reactive (entropic), we gain a unified explanation for anomalies ranging from the internal dynamics of dwarfs to the formation of the first galaxies. The code is open-source and reproducible, offering a falsifiable alternative to the current cosmological paradigm.
+The **Reactive Universe** simulation suite provides strong evidence that Dark Matter is unnecessary. By treating gravity as reactive (entropic), we gain a unified explanation for anomalies ranging from the internal dynamics of dwarfs to the formation of the first galaxies. 
+## References
+
+1.  Verlinde, E. (2016). *Emergent Gravity and the Dark Universe*. SciPost Phys.
+2.  **Fulber, D. (2025). *Information as Geometry*. Submitted to Class. Quant. Grav.**
+3.  Lelli, F., et al. (2016). *The SPARC Galaxy Database*. AJ.
+4.  Planck Collaboration (2018). *Planck 2018 results. VI. Cosmological parameters*. A&A.
