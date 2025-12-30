@@ -66,7 +66,7 @@ We successfully validated the model against 6 distinct observational tensions, p
 
 ## Installation & Usage
 
-### Prerequisites
+### Prerequisite s
 ```bash
 pip install numpy pandas astropy astroquery scipy matplotlib
 ```
